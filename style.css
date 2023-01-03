@@ -1,0 +1,43 @@
+h1{
+    color: rgb(54, 63, 53);
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    background-color: burlywood;
+    box-shadow: 10px 10px gray ;
+    background-image: url(../Html/Images/beautiful-golden-autumn-scenery-trees-golden-leaves-sunshine-scotland-united-kingdom-beautiful-golden-autumn-124278811.jpg);
+    background-size: cover;
+
+}
+
+.Hey{
+    background-color: rgba(75, 100, 16, 0.973);
+    border-radius:2px;
+    color: antiquewhite;
+    padding: 10px;
+    margin: 10px;
+    border: 10px solid rgb(37, 42, 38) ;
+    
+}
+
+.Hee{
+    background-color: rgb(199, 167, 49);
+    text-align: center;
+    border-radius: 50%;
+    color: antiquewhite;
+    padding: 10px;
+    margin: 10px;
+    border: 10px solid rgb(92, 92, 90) ;
+    
+    text-decoration: underline wavy black;
+}
+a{
+    text-decoration: none;
+}
+.er{
+    color: darkgoldenrod;
+}   
+
+.gg{
+    color: darkcyan;
+}
